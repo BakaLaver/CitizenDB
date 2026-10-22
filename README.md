@@ -26,11 +26,3 @@
 - **IDE:** Visual Studio (solution `CitizenDB.sln`)
 - **Экспорт:** Excel (`.xlsx`)
 
-## 📂 Структура репозитория
-
-```
-CitizenDB/          — исходный код приложения
-CitizenDB.sln       — solution для Visual Studio
-.gitignore          — стандартные исключения
-.gitattributes      — настройки Git
-```
